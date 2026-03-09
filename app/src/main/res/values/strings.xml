@@ -5,4 +5,9 @@
     <string name="login">LOGIN</string>
     <string name="email_hint">Enter your email address</string>
     <string name="password_hint">Enter your password</string>
+    <string name="name">John Doe</string>
+    <string name="title">Software Engineer</string>
+    <string name="message">MESSAGE</string>
+    <string name="follow">FOLLOW</string>
+    <string name="profile">Profile</string>
 </resources>
